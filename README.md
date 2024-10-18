@@ -2,6 +2,10 @@
 
 This is a simple **Snake Game** built using Java's `Swing` library. The player controls a snake that grows in length as it consumes apples. The game speeds up as the snake eats more apples, and the player must avoid running into the walls or the snake's own body.
 
+![Screenshot_3](https://github.com/user-attachments/assets/6077e025-0e5c-4941-b31c-58b892af13af)
+![Screenshot_1](https://github.com/user-attachments/assets/b1a96b84-7851-40c9-b02c-d02eeb4f7156)
+
+
 ## Features
 
 - **Snake Movement:** Use arrow keys to control the direction (Up, Down, Left, Right).
@@ -28,3 +32,4 @@ This is a simple **Snake Game** built using Java's `Swing` library. The player c
 ```bash
 javac SnakeGame.java
 java SnakeGame
+
