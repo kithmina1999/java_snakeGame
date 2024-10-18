@@ -23,8 +23,8 @@ This is a simple **Snake Game** built using Java's `Swing` library. The player c
 
 1. Clone the repository or download the source code.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `GamePanel` class to start the game.
+3. Compile and run the `SnakeGame` class to start the game.
 
 ```bash
-javac GamePanel.java
-java GamePanel
+javac SnakeGame.java
+java SnakeGame
